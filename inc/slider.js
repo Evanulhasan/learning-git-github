@@ -1,0 +1,1 @@
+console.lot("I'm a slider");
