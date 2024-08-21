@@ -1,2 +1,4 @@
-// I'am from Master 
-alert('Hello World!')
+
+// I' am from Master 
+console.lot('Hello World!')
+
